@@ -1,0 +1,208 @@
+.heading1 {
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #333;
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container2 h2 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.container2 p {
+    font-style: italic;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.right-aligned {
+    text-align: right;
+    background-color: green;
+    padding: 10px;
+    color: white;
+}
+
+.center-aligned {
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+    color: white;
+}
+
+.left-aligned {
+    text-align: left;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+
+
+.container4 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container4 hr {
+    border: 0;
+    height: 4px;
+    background-color: yellow;
+    margin: 20px 0;
+}
+.container5 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.arial-black {
+    font-family: "Arial Black", sans-serif;
+    font-size: calc(16px + 3px);
+}
+
+.algerian {
+    font-family: "Algerian", sans-serif;
+    font-size: calc(16px + 5px);
+    color: green;
+}
+
+.bodoni-mt {
+    font-family: "Bodoni MT", sans-serif;
+    font-size: calc(16px + 3px);
+}
+
+.book-antiqua {
+    font-family: "Book Antiqua", sans-serif;
+    font-size: calc(16px + 5px);
+    color: green;
+}
+
+.container6 {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container6 h2 {
+    color: #333;
+}
+
+.container6 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.container6 li {
+    margin-bottom: 10px;
+}
+
+.container7 {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container7 p {
+    font-size: 16px;
+    color: #333;
+}
+
+.trademark {
+    font-size: 14px;
+    color: #666;
+}
+
+.marquee-container {
+    padding: 20px;
+}
+
+.marquee {
+    font-size: calc(16px + 3px); 
+    color: rgb(121, 0, 0);
+}
+
+.container8 {
+    width: 25%;
+    height: 100px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.marquee2 {
+    font-size: 16px; 
+    white-space: nowrap;
+}
+
+.container9 {
+    width: 50%;
+    height: 100px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.marquee3 {
+    font-size: 16px;
+    white-space: nowrap;
+}
+.diamond-box {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    transform: rotate(45deg);
+    overflow: hidden;
+    background-color: #333;
+}
